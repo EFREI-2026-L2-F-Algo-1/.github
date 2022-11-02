@@ -1,4 +1,4 @@
-<!-- # EFREI 2026 L2-F Projet Algo 1︱Github - Member -->
+<!-- # EFREI 2026 L2-F Projet Algo 1︱GitHub﹣README﹣Public -->
 
 Welcome to the EFREI 2026 L2-F Projet Algo 1 Public GitHub!
 
